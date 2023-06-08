@@ -1,0 +1,31 @@
+_repo: Le-confessioni-di-fra-Gualberto-b-Storia-del-Secolo-XIV_70905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+    - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
+description: ''
+gutenberg_issued: '2023-06-03'
+identifiers:
+  gutenberg: '70905'
+language: it
+pgterms:marc905: 20170125073438barrili
+pgterms:marc906: '1874'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aItaly :$bFratelli Treves Editori, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le confessioni di fra Gualberto : $b Storia del Secolo XIV'
+url: http://www.gutenberg.org/ebooks/70905
