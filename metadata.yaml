@@ -1,5 +1,8 @@
 _repo: Le-confessioni-di-fra-Gualberto-b-Storia-del-Secolo-XIV_70905
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70905-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrili, Anton Giulio
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
     - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70905#Le-confessioni-di-fra-Gualberto-b-Storia-del-Secolo-XIV
 gutenberg_issued: '2023-06-03'
 identifiers:
   gutenberg: '70905'
